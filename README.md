@@ -1,0 +1,1 @@
+ghcr.io/huggingface/text-embeddings-inference:cpu-0.6
